@@ -65,8 +65,8 @@ stop
 
 以下のスクリーンショットも参考にしてください：
 
-![img](picture\Instruction-Screenshot.png)
-![img](picture\Instruction-Screenshot2.png)
+![img](picture\InstructionScreenshot.png)
+![img](picture\InstructionScreenshot2.png)
 ---
 
 ## ⚡ 注意事項
