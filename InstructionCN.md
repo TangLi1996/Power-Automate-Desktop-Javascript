@@ -63,8 +63,8 @@ stop
 ## 🖼 示例流程截图
 
 你可以参考以下流程截图：
-![img](picture\InstructionScreenshot.png)
-![img](picture\InstructionScreenshot2.png)
+![img](./picture/InstructionScreenshot.png)
+![img](./picture/InstructionScreenshot2.png)
 
 ---
 

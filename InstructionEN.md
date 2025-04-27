@@ -64,8 +64,8 @@ stop
 
 Please refer to the following images for a visual understanding:
 
-![img](picture\InstructionScreenshot.png)
-![img](picture\InstructionScreenshot2.png)
+![img](./picture/InstructionScreenshot.png)
+![img](./picture/InstructionScreenshot2.png)
 ---
 
 ## ⚡ Important Notes
